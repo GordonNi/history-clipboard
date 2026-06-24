@@ -6,3 +6,8 @@ dist/
 *.xcuserdata/
 *.xcuserstate
 *.zip
+
+# Local development guidance and progress records
+/AGENTS.md
+/dev-logs/
+/docs/

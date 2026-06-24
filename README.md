@@ -67,16 +67,15 @@ dist/HistoryClipboard.app
 scripts/install-local.sh
 ```
 
-详细说明见 [docs/packaging.md](docs/packaging.md)。
+生成的 App 位于 `dist/HistoryClipboard.app`，默认安装位置为
+`~/Applications/HistoryClipboard.app`。
 
 ## 项目结构
 
 ```text
 Sources/HistoryClipboard/  Swift 源码
 Assets/AppIcon/            应用图标
-docs/                      需求、架构、设计与质量文档
 scripts/                   打包和本地安装脚本
-dev-logs/                  开发日志
 ```
 
 ## 当前状态
